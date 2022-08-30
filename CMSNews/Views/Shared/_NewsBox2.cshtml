@@ -1,0 +1,16 @@
+﻿@model CMSNews.Models.ViewModels.NewsViewModel
+
+<div class="col-xs-18 col-sm-6 col-md-3">
+    <div class="thumbnail">
+        <img src="~/images/news/@Model.ImageName" style="height: 160px;" alt="@Model.NewsTitle">
+        <div class="caption">
+            <h5 style="height:70px;overflow-y: hidden;">@Model.NewsTitle</h5>
+            <div style="text-align: justify;height: 130px; overflow-y: hidden; padding: 5px; ">
+                @Html.Raw(Model.Description)
+            </div>
+            <p>
+                <a href="/newses/newsdetails/@Model.NewsId" class="btn btn-info btn-block">جزییات خبر</a>
+            </p>
+        </div>
+    </div>
+</div>

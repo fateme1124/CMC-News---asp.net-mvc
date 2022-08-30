@@ -1,0 +1,18 @@
+﻿@model CMSNews.Models.ViewModels.CommentViewModel
+
+<div class="media border p-3 m-2">
+    <img src="/images/person/person1.png" alt="John Doe" class="mr-3 mt-3 rounded-circle"
+         style="width:60px;">
+    <div class="media-body">
+        <h4>
+            @Model.Name
+            &nbsp;&nbsp;&nbsp;
+            <small>
+                <i>تاریخ درج نظر : @Html.DisplayFor(model=>Model.RegisterDate)</i>
+            </small>
+        </h4>
+        <p>
+            @Model.CommentText
+        </p>
+    </div>
+</div>

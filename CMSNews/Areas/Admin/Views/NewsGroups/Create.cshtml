@@ -1,0 +1,49 @@
+﻿@model CMSNews.Models.ViewModels.NewsGroupViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>درج رکورد جدید</h2>
+
+
+@using (Html.BeginForm("Create","NewsGroups",FormMethod.Post,new {enctype="multipart/form-data"}))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NewsGroupTitle, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NewsGroupTitle)
+                @Html.ValidationMessageFor(model => model.NewsGroupTitle)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ImageName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <img src="/images/news-group/nophoto.png" class="img60x60" id="impPrev"/>
+                <input type="file" id="imgupload" name="imgUpload" onchange="showPreview(this)" value="nophoto.png"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="درج رکورد " class="btn btn-success" /> |
+				@Html.ActionLink("برگشت به لیست ", "Index", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/main-script.js"></script>
+}
+

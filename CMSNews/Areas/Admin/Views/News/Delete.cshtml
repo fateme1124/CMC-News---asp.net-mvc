@@ -1,0 +1,88 @@
+﻿@model CMSNews.Models.ViewModels.NewsViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h2>حذف رکورد</h2>
+
+<h3>آیا برای حذف این رکورد اطمینان دارید؟</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NewsTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NewsTitle)
+        </dd>
+        <dt>
+            گروه خبری
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NewsGroup.NewsGroupTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.Raw(Model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageName)
+        </dt>
+
+        <dd>
+            <img src="/images/news/@Model.ImageName" class="img120x120" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RegisterDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RegisterDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.See)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.See)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Like)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Like)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف رکورد" class="btn btn-danger" /> |
+            @Html.ActionLink("برگشت به لیست", "Index", null, new { @class = "btn btn-primary" })
+        </div>
+    }
+</div>

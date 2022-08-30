@@ -1,0 +1,28 @@
+﻿@model CMSNews.Models.ViewModels.NewsViewModel
+
+<div class="news-item1 row">
+    <div class="news-item-right">
+        <img src="~/images/news/@Model.ImageName" alt="@Model.NewsTitle" class="img1">
+    </div>
+    <div class="news-item-left">
+        <a href="/newses/newsdetails/@Model.NewsId">
+            <h2 class="news-title">
+                @Model.NewsTitle
+            </h2>
+        </a>
+
+        <div class="news-desc">
+            <div>
+                <i class="fa fa-eye"></i>
+                @Model.See
+            </div>
+            <div>
+                <i class="fa fa-calendar"></i>
+                @Html.DisplayFor(model => Model.RegisterDate)
+            </div>
+            <div id="showLike_@Model.NewsId@ViewData["code"]">
+                @Html.Action("ShowLike", "Newses", new { newsId = Model.NewsId, state = true })
+            </div>
+        </div>
+    </div>
+</div>

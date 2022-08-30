@@ -1,0 +1,279 @@
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.dll.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csc.exe
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csc.exe.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csc.rsp
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csi.exe
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csi.exe.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\csi.rsp
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.AppContext.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Collections.Immutable.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Console.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.Process.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Compression.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Pipes.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Reflection.Metadata.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.AccessControl.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Claims.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Threading.Thread.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.ValueTuple.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\vbc.rsp
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Microsoft.Web.Infrastructure.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Helpers.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Mvc.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Razor.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Razor.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Helpers.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Mvc.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\obj\Debug\CMSNews.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\obj\Debug\CMSNews.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\EntityFramework.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\EntityFramework.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Optimization.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\WebGrease.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\System.Web.Optimization.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\AutoMapper.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\AutoMapper.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Models.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Service.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Repository.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csprojAssemblyReference.cache
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CoreCompileInputs.cache
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CopyComplete
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.dll.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.exe
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.exe.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.rsp
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.exe
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.exe.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.rsp
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.AppContext.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Collections.Immutable.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Console.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.Process.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Compression.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Pipes.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Reflection.Metadata.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.AccessControl.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Claims.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Principal.Windows.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Threading.Thread.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.ValueTuple.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XmlDocument.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.rsp
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\AutoMapper.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.Web.Infrastructure.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Helpers.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Mvc.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Optimization.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Razor.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\WebGrease.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\AutoMapper.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Optimization.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Razor.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Helpers.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Mvc.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.AssemblyReference.cache
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CoreCompileInputs.cache
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CopyComplete
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.dll.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.exe
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.exe.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csc.rsp
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.exe
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.exe.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\csi.rsp
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.AppContext.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Collections.Immutable.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Console.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.Process.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Compression.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.IO.Pipes.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Reflection.Metadata.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.AccessControl.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Claims.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Threading.Thread.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.ValueTuple.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.exe.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\vbc.rsp
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\roslyn\VBCSCompiler.exe.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\AutoMapper.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.Web.Infrastructure.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Helpers.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Mvc.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Optimization.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Razor.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\WebGrease.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Models.dll.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Repository.dll.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\CMSNews.Service.dll.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Antlr3.Runtime.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\AutoMapper.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\EntityFramework.SqlServer.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Newtonsoft.Json.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Optimization.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Razor.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Deployment.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Webpages.Razor.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Helpers.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\System.Web.Mvc.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.AssemblyReference.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CoreCompileInputs.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.csproj.CopyComplete
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews\obj\Debug\CMSNews.pdb

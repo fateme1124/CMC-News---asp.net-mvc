@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CMSNews.Models.ViewModels.NewsViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>لیست رکوردها</h2>
+
+<p>
+    @Html.ActionLink("درج رکورد جدید", "Create", null, new { @class = "btn btn-success btn-xs" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ImageName)
+        </th>
+        <th>
+            گروه خبری
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.NewsTitle)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.RegisterDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.See)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Like)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <img src="/images/news/@item.ImageName" class="img60x60"/>
+        </td>
+        <td>
+            @item.NewsGroup.NewsGroupTitle
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NewsTitle)
+        </td>
+
+
+        <td>
+            @Html.DisplayFor(modelItem => item.RegisterDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsActive)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.See)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Like)
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new {id = item.NewsId}, new {@class = "btn btn-warning btn-xs"}) |
+            @Html.ActionLink("جزئیات", "Details", new {id = item.NewsId}, new {@class = "btn btn-info btn-xs"}) |
+            @Html.ActionLink("حذف", "Delete", new {id = item.NewsId}, new {@class = "btn btn-danger btn-xs"})
+        </td>
+    </tr>
+}
+
+</table>

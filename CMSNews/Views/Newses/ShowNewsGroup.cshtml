@@ -1,0 +1,65 @@
+﻿@model IEnumerable<CMSNews.Models.ViewModels.NewsGroupViewModel>
+
+@if (ViewBag.LocId == 1)
+{
+    <div id="services">
+        <div class="jumbotron">
+            <div class="area text-center">
+                <div class="col-12 text-center">
+                    <h2 class="title">گروه اخبار</h2>
+                    <div class="underline"></div>
+                </div>
+                <div class="news-group">
+                    @foreach (var item in Model)
+                    {
+                        <div class="box-group">
+                            <div class="box-group-top">
+                                <img src="~/images/news-group/@item.ImageName" alt="@item.NewsGroupTitle">
+                            </div>
+                            <div class="box-group-boottom">
+                                <a href="/newses/ShowNewsList/@item.NewsGroupId">
+                                    @item.NewsGroupTitle
+                                </a>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+else if (ViewBag.LocId == 2)
+{
+    <div class="news-panel">
+        <div class="news-item-title">
+            گروه های خبری
+        </div>
+        @foreach (var item in Model)
+        {
+            <div class="news-item1-details row">
+                <div class="news-item-right-details">
+                    <img src="../images/person/p1.jpg" alt="" class="img1-circle">
+                </div>
+                <div class="news-item-left">
+                    <a href="/newses/ShowNewsList/@item.NewsGroupId">
+                        <h2 class="news-title-details">
+                            @item.NewsGroupTitle
+                        </h2>
+                    </a>
+                    <div class="news-desc">
+                        <div>
+                            تعداد خبرهای گروه @item.NewsGroupTitle :
+                            <span class="badge badge-success">
+                                @item.News.Count
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+}
+
+

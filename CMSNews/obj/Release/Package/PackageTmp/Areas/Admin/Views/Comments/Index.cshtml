@@ -1,0 +1,69 @@
+﻿@model IEnumerable<CMSNews.Models.ViewModels.CommentViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    int id=1;
+}
+
+<h2>لیست رکوردها</h2>
+
+<p>
+    @Html.ActionLink("درج رکورد جدید", "Create", null, new { @class = "btn btn-success btn-xs" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ردیف
+        </th>
+        <th>
+           عنوان خبر
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CommentText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @id
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.News.NewsTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CommentText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @if (item.IsActive == true)
+            {
+                <span>
+                    فعال
+                </span>
+            }
+            else {
+                <spamn>
+                    غیر فعال
+                </spamn>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new { id=item.CommentId }, new { @class = "btn btn-warning btn-xs" }) |
+            @Html.ActionLink("جزئیات", "Details", new { id=item.CommentId }, new { @class = "btn btn-info btn-xs" }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.CommentId }, new { @class = "btn btn-danger btn-xs" })
+        </td>
+    </tr>
+    id += 1;
+}
+
+</table>

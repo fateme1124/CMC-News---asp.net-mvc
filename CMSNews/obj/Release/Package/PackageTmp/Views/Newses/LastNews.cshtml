@@ -1,0 +1,11 @@
+﻿@model IEnumerable<CMSNews.Models.ViewModels.NewsViewModel>
+
+<div class="news-panel">
+    <div class="news-item-title">
+        تازه ترین خبرها
+    </div>
+    @foreach (var item in Model)
+    {
+        @Html.Partial("_NewsBox1",item,new ViewDataDictionary{ { "code",1} })
+    }
+</div>

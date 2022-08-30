@@ -1,0 +1,34 @@
+﻿@model CMSNews.Models.ViewModels.NewsGroupViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<h2>اطلاعات تکمیلی برای رکورد</h2>
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NewsGroupTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NewsGroupTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageName)
+        </dt>
+
+        <dd>
+            <img src="/images/news-group/@Model.ImageName" class="img120x120"/>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("ویرایش", "Edit", new { id = Model.NewsGroupId }, new { @class = "btn btn-warning" }) |
+    @Html.ActionLink("برگشت به لیست", "Index", null, new { @class = "btn btn-primary" })
+</p>

@@ -1,0 +1,16 @@
+﻿@if (ViewBag.LoginState == true)
+{
+    <li class="nav-item">
+        <a class="nav-link" href="/Account/Logout">خروج</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/Admin">پنل مدیریت</a>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" href="/Account/Login">ورود</a>
+    </li>
+}
+

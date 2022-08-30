@@ -1,0 +1,74 @@
+﻿@model CMSNews.Models.ViewModels.NewsViewModel
+@{
+    ViewBag.Title = "جزییات خبر";
+}
+
+
+<div id="services">
+    <div class="jumbotron">
+        <div class="area text-center">
+
+        </div>
+    </div>
+</div>
+
+<div class="main">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="news-item2">
+                <img src="/images/news/@Model.ImageName" alt="@Model.NewsTitle">
+                <h2>
+                    @Model.NewsTitle
+                </h2>
+                <div class="row" style="margin:5px;">
+                    <div>
+                        <i class="fa fa-eye"></i>
+                        @Model.See
+                    </div>
+                    &nbsp; | &nbsp;
+                    <div>
+                        <i class="fa fa-calendar"></i>
+                        @Html.DisplayFor(model => Model.RegisterDate)
+                    </div>
+                    &nbsp; | &nbsp;
+                    <div>
+                        <i class="fa fa-thumbs-up"></i>
+                        @Model.Like
+                    </div>
+                </div>
+                <p>
+                    @Html.Raw(Model.Description)
+                </p>
+            </div>
+            <div class="news-item2">
+                <div class="container mt-3">
+                    <h2>نظرات کاربرن</h2>
+                    <p>نظرات کاربران برای خبر - @Model.NewsTitle</p>
+
+
+                    <div id="showMessage">
+                        @Html.Action("ShowComments", "Comment", new { id = Model.NewsId })
+                    </div>
+                    
+
+                    <div class="news-item2">
+                        <h4>
+                            نظر خود را در مورد خبر وارد کنید
+                        </h4>
+                        @Html.Action("CreateComment", "Comment", new { id = Model.NewsId })
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="col-md-4" style="margin-right: -15px">
+            @Html.Action("ShowNewsGroup", "Newses", new { locId = 2 })
+            @Html.Action("LastNews", "Newses", new { count = 4 })
+            @Html.Action("BestNews", "Newses", new { count = 3 })
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<CMSNews.Models.ViewModels.UserViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>لیست رکوردها</h2>
+
+<p>
+    @Html.ActionLink("درج رکورد جدید", "Create", null, new { @class = "btn btn-success btn-xs" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MobileNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RegisterDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MobileNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RegisterDate)
+        </td>
+        <td>
+            @if (item.IsActive == true)
+            {
+                <span>
+                    فعال
+                </span>
+            }
+            else
+            {
+                <spamn>
+                    غیر فعال
+                </spamn>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("ویرایش", "Edit", new { id=item.UserId }, new { @class = "btn btn-warning btn-xs" }) |
+            @Html.ActionLink("جزئیات", "Details", new { id=item.UserId }, new { @class = "btn btn-info btn-xs" }) |
+            @Html.ActionLink("حذف", "Delete", new { id=item.UserId }, new { @class = "btn btn-danger btn-xs" })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,9 @@
+﻿@model CMSNews.Models.ViewModels.NewsViewModel
+
+<img src="~/images/news/@Model.ImageName" alt="@Model.NewsTitle">
+<h2>
+@Model.NewsTitle
+</h2>
+<p>
+   @Html.Raw(Model.Description)
+</p>

@@ -1,0 +1,40 @@
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll.config
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.dll
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.pdb
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.Migrations.CreatDb.resources
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.GenerateResource.cache
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csprojAssemblyReference.cache
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.CoreCompileInputs.cache
+G:\Video_Learning\OnlineTraining\1_Full Stack .Net\4_Asp.Net MVC\Session11_99_09-25\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.CopyComplete
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll.config
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.dll
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.pdb
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.Migrations.CreateDb.resources
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.GenerateResource.cache
+D:\full stack\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csprojResolveAssemblyReference.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll.config
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\CMSNews.Models.pdb
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.AssemblyReference.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.Migrations.CreateDb.resources
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.GenerateResource.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.CoreCompileInputs.cache
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.csproj.CopyComplete
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.dll
+D:\Full Stack Web Developer\asp.net MVC\CMSNews\Project\CMSNews\CMSNews.Models\obj\Debug\CMSNews.Models.pdb

@@ -1,0 +1,49 @@
+﻿@model CMSNews.Models.ViewModels.NewsGroupViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+
+
+<h2>ویرایش رکورد</h2>
+@using (Html.BeginForm("Edit", "NewsGroups", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.NewsGroupId)
+        @Html.HiddenFor(model => model.ImageName)
+        <div class="form-group">
+            @Html.LabelFor(model => model.NewsGroupTitle, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NewsGroupTitle)
+                @Html.ValidationMessageFor(model => model.NewsGroupTitle)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ImageName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <img src="/images/news-group/@Model.ImageName" class="img60x60" id="impPrev" />
+                <input type="file" id="imgupload" name="imgUpload" onchange="showPreview(this)"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="ذخیره تغییرات" class="btn btn-warning"/> |
+                @Html.ActionLink("برگشت به لیست", "Index", null, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script src="~/Scripts/main-script.js"></script>
+}
